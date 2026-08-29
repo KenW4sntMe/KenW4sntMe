@@ -4,7 +4,7 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="55%" align="left" valign="top" style="padding: 10px;">
+<td width="60%" align="left" valign="middle" style="padding: 10px;">
 
 <font size="4">
 ⚓ <b>𝔑𝔞𝔪𝔢 / ℭ𝔞𝔩𝔩 𝔪𝔢:</b> <i>Ken</i><br/>
@@ -13,9 +13,23 @@
 🏴‍☠️ <b>𝔔𝔲𝔬𝔱𝔢:</b> <i>“The ocean doesn't belong to anyone, but we claim the horizon.”</i>
 </font>
 
-<br/><br/>
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="./assets/jadenman_pirate.png" width="230" />
+</td>
+</tr>
+</table>
 
-### 🏴‍☠️ ℭ𝔯𝔢𝔮 & 𝔄𝔩𝔩𝔦𝔢𝔰
+<br/>
+
+---
+
+## 🏴‍☠️ ℭ𝔯𝔢𝔮 & 𝔄𝔩𝔩𝔦𝔢𝔰 — *[⚓ Pirate Crew]*
+
+<table border="0" width="100%">
+<tr>
+<td width="60%" align="left" valign="middle" style="padding: 10px;">
+
 <font size="4">
 ⚓ <b>𝔖𝔭𝔢𝔠𝔦𝔞𝔩 𝔓𝔞𝔯𝔱𝔫𝔢𝔯 / 𝔐𝔶 𝔏𝔬𝔳𝔢:</b><br/>
 👉 <b>[@W4SH3RCANW4LK](https://github.com/W4SH3RCANW4LK)</b> 💖
@@ -31,13 +45,8 @@
 > </font>
 
 </td>
-
-<td width="45%" align="center" valign="middle">
-
-<img src="./assets/jadenman_pirate.png" width="220" />
-<br/><br/>
-<img src="./assets/jadenman_action.png" width="220" />
-
+<td width="40%" align="center" valign="middle">
+<img src="./assets/jadenman_action.png" width="250" />
 </td>
 </tr>
 </table>

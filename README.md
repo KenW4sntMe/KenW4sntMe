@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=✦+𝒲𝑒𝓁𝒸𝑜𝓂𝑒+𝓉𝑜+𝓉𝒽𝑒+𝒥𝒶𝒹𝑒𝓃𝓂𝒶𝓃'𝓈+𝒯𝑒𝓇𝓇𝒾𝓉𝑜𝓇𝓎+✦;⚓+𝒮𝒶𝒾𝓁𝒾𝓃𝯯+𝓉𝒽𝓇𝑜𝓊𝑔𝒽+𝓉𝒽𝑒+𝒟𝒶𝓇𝓀+𝒪𝒸𝑒𝒶𝓃𝓈...;🏴‍☠️+𝒦𝑒𝓃𝒲𝟦𝓈𝓃𝓉𝑀𝑒+•+𝒯𝒽𝑒+𝒫𝒾𝓇𝒶𝓉𝑒+𝒦𝒾𝓃𝑔+✦" alt="Typing Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=✦+𝒲𝑒𝓁𝒸𝑜𝓂𝑒+𝓉𝑜+𝓉𝒽𝑒+𝒥𝒶𝒹𝑒𝓃𝓂𝒶𝓃'𝓈+𝒯𝑒𝓇𝓇𝒾𝓉𝑜𝓇𝓎+✦;⚓+𝒮𝒶𝒾𝓁𝒾𝓃𝯯+𝓉𝒽𝓇𝑜𝓊𝑔�...;🏴‍☠️+𝒦𝑒𝓃𝒲𝟦𝓈𝓃𝓉𝑀𝑒+•+𝒯𝒽𝑒+𝒫𝒾𝓇𝒶𝓉𝑒+𝒦𝒾ⁿ𝑔+✦" alt="Typing Banner" />
 
 <br/>
 
-<!-- Main Hero Image -->
-![](./assets/jadenman_art.png)
+<!-- Main Hero Image (Đã làm nhỏ) -->
+<img src="./assets/jadenman_art.png" width="300" />
 
 <!-- Animated Typing Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=38EF7D&center=true&vCenter=true&width=600&height=30&lines=⚔️+%F0%9D%95%8C%F0%9D%95%9D%F0%9D%95%94%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%9E+%F0%9D%95%A5%F0%9D%95%9C+%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%A4+%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%9E%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%A0%F0%9D%95%A5+%F0%9D%95%A4%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%9E+⚓" alt="Welcome Subtitle" />
@@ -30,7 +30,8 @@
 
 <div align="center">
 
-![](./assets/jadenman_pirate.png)
+<!-- Ảnh này đã làm nhỏ -->
+<img src="./assets/jadenman_pirate.png" width="300" />
 
 </div>
 
@@ -63,7 +64,8 @@
 
 <br/>
 
-![](./assets/jadenman_action.png)
+<!-- Ảnh này đã làm nhỏ -->
+<img src="./assets/jadenman_action.png" width="300" />
 
 </div>
 
@@ -73,7 +75,7 @@
 
 ### ☠️ 𝐵𝑜𝓊𝓃𝒹𝒶𝓇𝒾𝑒𝓈 & ℛ𝓊𝓁𝑒𝓈 — *[⚔️ Code of the Sea]*
 
-> ⚠️ **𝒫ℛℰ𝒜𝒟 𝒞𝒜ℛℰ𝐹𝒰ℒℒ𝒴 / 𝒞𝒪𝒟ℰ 𝒪𝒯ℋℰ 𝒮ℰ𝒜:**
+> ⚠️ **𝒫ℛℰ𝒜𝒟 𝒞𝒜ℛℰ𝐹𝒰𝒫 Pillow / 𝒞𝒪𝒟ℰ 𝒪𝒯ℋℰ 𝒮ℰ𝒜:**
 > 
 > ⛔ **I hate fake people.**  
 > ⛔ **DO NOT COPY MY SKIN!** *(If you copy my skin, I will punch you in the face 👊).*  

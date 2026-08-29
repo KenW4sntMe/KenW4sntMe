@@ -1,19 +1,26 @@
 ## 📜 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢 — *[📜 Pirate Log / Chart]*
 
-<blockquote align="center">
-<p align="left">
-<big>
-⚓ <b>𝔑𝔞𝔪𝔢 / ℭ𝔞𝔩𝔩 𝔪𝔢:</b> <i>Ken</i><br/>
-🔵 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b> <i>She / Her</i><br/>
-🌊 <b>𝔅𝔦𝔬:</b> <code>free to int!!</code><br/>
-🏴‍☠️ <b>𝔔𝔲𝔬𝔱𝔢:</b> <i>“The ocean doesn't belong to anyone, but we claim the horizon.”</i>
-</big>
-</p>
-</blockquote>
+<table border="0" width="100%">
+<tr>
+<td width="60%" valign="middle">
 
-<p align="center">
-  <img src="./assets/jadenman_pirate.png" width="300" />
-</p>
+<big>
+
+⚓ <b>𝔑𝔞𝔪𝔢 / ℭ𝔞𝔩𝔩 𝔪𝔢:</b> <i>Ken</i><br/><br/>
+🔵 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b> <i>She / Her</i><br/><br/>
+🌊 <b>𝔅𝔦𝔬:</b> <code>free to int!!</code><br/><br/>
+🏴‍☠️ <b>𝔔𝔲𝔬𝔱𝔢:</b> <i>“The ocean doesn't belong to anyone, but we claim the horizon.”</i>
+
+</big>
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="./assets/jadenman_pirate.png" width="240" style="border-radius: 10px;" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 

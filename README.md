@@ -1,22 +1,3 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=✦+𝒲𝑒𝓁𝒸𝑜𝓂𝑒+𝓉𝑜+𝓉𝒽𝑒+𝒥𝒶𝒹𝑒𝓃𝓂𝒶𝓃'𝓈+𝒯𝑒𝓇𝓇𝒾𝓉𝑜𝓇𝓎+✦;⚓+𝒮𝒶𝒾𝓁𝒾𝓃𝯯+𝓉𝒽𝓇𝑜𝓊𝑔�...;🏴‍☠️+𝒦𝑒𝓃𝒲𝟦𝓈𝓃𝓉𝑀𝑒+•+𝒯𝒽𝑒+𝒫𝒾𝓇𝒶𝓉𝑒+𝒦𝒾ⁿ𝑔+✦" alt="Typing Banner" />
-
-<br/>
-
-<!-- Main Hero Image (Đã làm nhỏ) -->
-<img src="./assets/jadenman_art.png" width="300" />
-
-<!-- Animated Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=38EF7D&center=true&vCenter=true&width=600&height=30&lines=⚔️+%F0%9D%95%8C%F0%9D%95%9D%F0%9D%95%94%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%9E+%F0%9D%95%A5%F0%9D%95%9C+%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%A4+%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%9E%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%A0%F0%9D%95%A5+%F0%9D%95%A4%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%9E+⚓" alt="Welcome Subtitle" />
-
-</div>
-
-<br/>
-
----
-
 ### 📜 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 — *[📜 Pirate Log / Chart]*
 
 <blockquote align="center">

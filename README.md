@@ -21,7 +21,7 @@
 
 <font size="4">
 ⚓ <b>𝔖𝔭𝔢𝔠𝔦𝔞𝔩 𝔓𝔞𝔯𝔱𝔫𝔢𝔯 / 𝔐𝔶 𝔏𝔬𝔳𝔢:</b><br/>
-👉 <b>[@W4SH3RCANW4LK](https://github.com/W4SH3RCANW4LK)</b> 💖
+👉 <a href="https://github.com/W4SH3RCANW4LK"><b>@W4SH3RCANW4LK</b></a> 💖
 </font>
 
 <br/><br/>
@@ -50,7 +50,7 @@
 <font size="4">
 ♫ <b>𝔍𝔞𝔡𝔢𝔫𝔪𝔞𝔫'𝔰 𝔒𝔠𝔢𝔞𝔫 𝔗𝔥𝔢𝔪𝔢 — 𝔓𝔦𝔯𝔞𝔱𝔢 𝔇𝔯𝔦𝔣𝔱</b> ♫<br/>
 <code>01:23 ───────────⚪─────── 03:45</code><br/>
-<code>◄◄  ▐▐  ►►   𝓋𝑜𝓁𝓊𝒽𝑒: ▇▇▇▇▇▇▇▇█ 80%</code>
+<code>◄◄  ▐▐  ►►   𝓋𝑜𝓁𝑢𝒽𝑒: ▇▇▇▇▇▇▇▇█ 80%</code>
 </font>
 
 <br/><br/>

@@ -1,34 +1,25 @@
-## 📜 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢 — *[📜 Pirate Log / Chart]*
+<div align="center">
 
-<table border="0" width="100%">
-<tr>
-<td width="60%" valign="middle">
+## 📜 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢 — *[📜 Pirate Log / Chart]*
 
 <big>
 
-⚓ <b>𝔑𝔞𝔪𝔢 / ℭ𝔞𝔩𝔩 𝔪𝔢:</b> <i>Ken</i><br/><br/>
-🔵 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b> <i>She / Her</i><br/><br/>
-🌊 <b>𝔅𝔦𝔬:</b> <code>free to int!!</code><br/><br/>
+⚓ <b>𝔑𝔞𝔪𝔢 / ℭ𝔞𝔩𝔩 𝔪𝔢:</b> <i>Ken</i><br/>
+🔵 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b> <i>She / Her</i><br/>
+🌊 <b>𝔅𝔦𝔬:</b> <code>free to int!!</code><br/>
 🏴‍☠️ <b>𝔔𝔲𝔬𝔱𝔢:</b> <i>“The ocean doesn't belong to anyone, but we claim the horizon.”</i>
 
 </big>
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="./assets/jadenman_pirate.png" width="240" style="border-radius: 10px;" />
-
-</td>
-</tr>
-</table>
-
 <br/>
+
+<img src="./assets/jadenman_pirate.png" width="260" />
+
+<br/><br/>
 
 ---
 
 ## ⚔️ 𝔉𝔞𝔫𝔡𝔬𝔪𝔰 & 𝔊𝔞𝔪𝔢𝔰 — *[🏴‍☠️ Uncharted Waters]*
-
-<div align="center">
 
 | 🎮 <big><b>𝔊𝔞𝔪𝔢𝔰 & 𝔄ℜ𝔊𝔰</b></big> | 📚 <big><b>𝔄𝔫𝔦𝔪𝔢 & 𝔏𝔬𝔯𝔢</b></big> |
 | :---: | :---: |
@@ -36,28 +27,20 @@
 | <big>🔹 <i>Minecraft</i></big> | <big>🔹 <i>Jadenman Lore</i></big> |
 | <big>🔹 <i>Valorant</i></big> | <big>🔹 <i>Deep Sea Mysteries</i></big> |
 
-</div>
-
 <br/>
 
 ---
 
 ## 🏴‍☠️ ℭ𝔯𝔢𝔮 & 𝔄𝔩𝔩𝔦𝔢𝔰 — *[⚓ Pirate Crew]*
 
-<div align="center">
-
 <big>⚓ <b>𝔖𝔭𝔢𝔠𝔦𝔞𝔩 𝔓𝔞𝔯𝔱𝔫𝔢𝔯 / 𝔐𝔶 𝔏𝔬𝔳𝔢:</b></big>  
 <big>👉 <b>[@W4SH3RCANW4LK](https://github.com/W4SH3RCANW4LK)</b> 💖</big>
 
 <br/><br/>
 
-<p align="center">
-  <img src="./assets/jadenman_action.png" width="300" />
-</p>
+<img src="./assets/jadenman_action.png" width="300" />
 
-</div>
-
-<br/>
+<br/><br/>
 
 ---
 
@@ -74,8 +57,6 @@
 ---
 
 ## 🎵 𝔄𝔬𝔭 𝔓𝔩𝔞𝔶𝔦𝔫𝔤 — *[🌊 Ocean Shanty]*
-
-<div align="center">
 
 <table background="./assets/f51a0c45a6c42051e6d36eff8ee2daf8-removebg-preview.png" width="100%">
 <tr>

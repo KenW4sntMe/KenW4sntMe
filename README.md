@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner / Typing Effect -->
+<!-- Animated Header Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&height=50&lines=✦+𝒲𝑒𝓁𝒸𝑜𝓂𝑒+𝓉𝑜+𝓉𝒽𝑒+𝒥𝒶𝒹𝑒𝓃𝓂𝒶𝓃'𝓈+𝒯𝑒𝓇𝓇𝒾𝓉𝑜𝓇𝓎+✦;⚓+𝒮𝒶𝒾𝓁𝒾𝓃𝯯+𝓉𝒽𝓇𝑜𝓊𝑔𝒽+𝓉𝒽𝑒+𝒟𝒶𝓇𝓀+𝒪𝒸𝑒𝒶𝓃𝓈...;🏴‍☠️+𝒦𝑒𝓃𝒲𝟦𝓈𝓃𝓉𝑀𝑒+•+𝒯𝒽𝑒+𝒫𝒾𝓇𝒶𝓉𝑒+𝒦𝒾𝓃𝑔+✦" alt="Typing Banner" />
 
 <br/>
 
-<!-- Main Hero Image (Jadenman Pirate Art) -->
-<img src="./assets/jadenman_art.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 0 20px rgba(0, 210, 255, 0.4);" />
-
-<br/><br/>
+<!-- Main Hero Image -->
+![](./assets/jadenman_art.png)
 
 <!-- Animated Typing Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=38EF7D&center=true&vCenter=true&width=600&height=30&lines=⚔️+%F0%9D%95%8C%F0%9D%95%9D%F0%9D%95%94%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%9A%F0%9D%95%9F%F0%9D%95%9E+%F0%9D%95%A5%F0%9D%95%9C+%F0%9D%95%A5%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%A4+%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%9E%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%A0%F0%9D%95%A5+%F0%9D%95%A4%F0%9D%95%99%F0%9D%95%9A%F0%9D%95%9E+⚓" alt="Welcome Subtitle" />
@@ -31,7 +29,9 @@
 </blockquote>
 
 <div align="center">
-  <img src="./assets/jadenman_pirate.jpg" width="60%" style="border-radius: 10px;" />
+
+![](./assets/jadenman_pirate.png)
+
 </div>
 
 <br/>
@@ -63,7 +63,7 @@
 
 <br/>
 
-<img src="./assets/jadenman_action.jpg" width="75%" style="border-radius: 8px;" />
+![](./assets/jadenman_action.png)
 
 </div>
 

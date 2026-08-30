@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="J.svg" alt="Running Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Qwigley&size=40&pause=1000&color=3FB1F7E4&background=B4FF9600&vCenter=true&width=600&lines=The+ocean+doesn't+belong+to+anyone%2C+but+we+claim+the+horizon" alt="Typing SVG" />
 </p>
 
 ## ☠️ 𝔅𝔬𝔲𝔫𝔡𝔞𝔯𝔦𝔢𝔰 & ℜ𝔲𝔩𝔢𝔰 — *[⚔️ Code of the Sea]*

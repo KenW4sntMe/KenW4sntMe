@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Qwigley&size=40&pause=1000&color=3FB1F7E4&background=B4FF9600&vCenter=true&width=600&lines=The+ocean+doesn't+belong+to+anyone%2C+but+we+claim+the+horizon" alt="Typing SVG" />
 </p>
+<div align="center">
 
 ## ☠️ 𝔅𝔬𝔲𝔫𝔡𝔞𝔯𝔦𝔢𝔰 & ℜ𝔲𝔩𝔢𝔰 — *[⚔️ Code of the Sea]*
 
@@ -18,7 +19,7 @@
 <font size="4">
 ♫ <b>𝔍𝔞𝔡𝔢𝔫𝔪𝔞𝔫'𝔰 𝔒𝔠𝔢𝔞𝔫 𝔗𝔥𝔢𝔪𝔢 — 𝔓𝔦𝔯𝔞𝔱𝔢 𝔇𝔯𝔦𝔣𝔱</b> ♫<br/>
 <code>01:23 ───────────⚪─────── 03:45</code><br/>
-<code>◄◄  ▐▐  ►►   𝓋𝑜𝓁𝑢𝒽𝑒: ▇▇▇▇▇▇▇▇█ 80%</code>
+<code>◄◄  ▐▐  ►►    𝓋𝑜𝓁𝑢𝒽𝑒: ▇▇▇▇▇▇▇▇█ 80%</code>
 </font>
 
 <br/><br/>

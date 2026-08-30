@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./J.svg" alt="Running Text" />
+  <img src="J.svg" alt="Running Text" />
 </p>
 
 ## ☠️ 𝔅𝔬𝔲𝔫𝔡𝔞𝔯𝔦𝔢𝔰 & ℜ𝔲𝔩𝔢𝔰 — *[⚔️ Code of the Sea]*

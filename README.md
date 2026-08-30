@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Qwigley&size=40&pause=1000&color=3FB1F7E4&background=B4FF9600&vCenter=true&width=600&lines=The+ocean+doesn't+belong+to+anyone%2C+but+we+claim+the+horizon" alt="Typing SVG" />
 </p>
 <div align="center">
+<div align="center">
 
-## ☠️ 𝔅𝔬𝔲𝔫𝔡𝔞𝔯𝔦𝔢𝔰 & ℜ𝔲𝔩𝔢𝔰 — *[⚔️ Code of the Sea]*
+<h3>☠️ 𝔅𝔬𝔲𝔫𝔡𝔞𝔯𝔦𝔢𝔰 & ℜ𝔲𝔩𝔢𝔰 — <i>[⚔️ Code of the Sea]</i></h3>
 
 <font size="4">
 ⚠️ <b>𝔓ℜ𝔈𝔄𝔇 ℭ𝔄ℜ𝔈𝔉𝔘𝔏𝔏𝔒𝔘 / ℭ𝔄𝔇𝔈 𝔒𝔉 𝔗ℌ𝔈 𝔖𝔈𝔄:</b><br/><br/>
@@ -14,7 +15,7 @@
 
 <br/><br/>
 
-## 🎵 𝔄𝔬𝔭 𝔓𝔩𝔞𝔶𝔦𝔫𝔤 — *[🌊 Ocean Shanty]*
+<h3>🎵 𝔄𝔬𝔭 𝔓𝔩𝔞𝔶𝔦𝔫𝔤 — <i>[🌊 Ocean Shanty]</i></h3>
 
 <font size="4">
 ♫ <b>𝔍𝔞𝔡𝔢𝔫𝔪𝔞𝔫'𝔰 𝔒𝔠𝔢𝔞𝔫 𝔗𝔥𝔢𝔪𝔢 — 𝔓𝔦𝔯𝔞𝔱𝔢 𝔇𝔯𝔦𝔣𝔱</b> ♫<br/>

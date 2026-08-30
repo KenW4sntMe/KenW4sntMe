@@ -1,32 +1,6 @@
-<div align="center">
-
-## 📜 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢 — *[📜 Pirate Log / Chart]*
-
-<font size="4">
-⚓ <b>𝔑𝔞𝔪𝔢 / ℭ𝔞𝔩𝔩 𝔪𝔢:</b> <i>Ken</i><br/>
-🔵 <b>𝔓𝔯𝔬𝔫𝔬𝔲𝔫𝔰:</b> <i>She / Her</i><br/>
-🌊 <b>𝔅𝔦𝔬:</b> <code>free to int!!</code><br/>
-🏴‍☠️ <b>𝔔𝔲𝔬𝔱𝔢:</b> <i>“The ocean doesn't belong to anyone, but we claim the horizon.”</i>
-</font>
-
-<br/><br/>
-
-<img src="./assets/jadenman_pirate.png" width="280" />
-
-<br/><br/>
-
-## 🏴‍☠️ ℭ𝔯𝔢𝔮 & 𝔄𝔩𝔩𝔦𝔢𝔰 — *[⚓ Pirate Crew]*
-
-<font size="4">
-⚓ <b>𝔖𝔭𝔢𝔠𝔦𝔞𝔩 𝔓𝔞𝔯𝔱𝔫𝔢𝔯 / 𝔐𝔶 𝔏𝔬𝔳𝔢:</b><br/>
-👉 <a href="https://github.com/W4SH3RCANW4LK"><b>@W4SH3RCANW4LK</b></a> 💖
-</font>
-
-<br/><br/>
-
-<img src="./assets/jadenman_action.png" width="320" />
-
-<br/><br/>
+<p align="center">
+  <img src="./J.svg" alt="Running Text" />
+</p>
 
 ## ☠️ 𝔅𝔬𝔲𝔫𝔡𝔞𝔯𝔦𝔢𝔰 & ℜ𝔲𝔩𝔢𝔰 — *[⚔️ Code of the Sea]*
 
